@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-st.set_page_config(page_title="MBO Braintrainer", layout="wide")
+st.set_page_config(page_title="ViveActive Braintrainer", layout="wide")
 
 @st.cache_data
 def load_questions():
